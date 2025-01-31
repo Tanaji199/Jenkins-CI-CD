@@ -1,7 +1,7 @@
 # django-todo
 A simple todo app built with django deployed with Jenkins CI CD
 
-![todo App](https://raw.githubusercontent.com/shreys7/django-todo/develop/staticfiles/todoApp.png)
+![todo App](https://github.com/Tanaji199/Jenkins-CI-CD/blob/develop/to-do%20app%20deployment.jpeg?raw=true)
 ### Setup
 To get this repository, run the following command inside your git enabled terminal
 ```bash
